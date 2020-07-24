@@ -1,0 +1,14 @@
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.vbprojAssemblyReference.cache
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.Resources.resources
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.vbproj.GenerateResource.cache
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.vbproj.CoreCompileInputs.cache
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\bin\Debug\OnsetPackageAutoCreator.exe.config
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\bin\Debug\OnsetPackageAutoCreator.exe
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\bin\Debug\OnsetPackageAutoCreator.pdb
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\bin\Debug\OnsetPackageAutoCreator.xml
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.exe
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.xml
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.pdb
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SUSI\source\repos\OnsetPackageAutoCreator\obj\Debug\OnsetPackageAutoCreator.vbproj.CopyComplete
